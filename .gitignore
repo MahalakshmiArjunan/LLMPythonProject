@@ -1,0 +1,3 @@
+# Environment Variables
+.env                                # --- holds Open Api Key
+.env.local                          # --- holds confident api key
